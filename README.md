@@ -26,7 +26,7 @@ Please indicate the extent to which you agree or disagree with the following sta
 - Agree
 - Strongly Agree
 
-### Questionere
+### questionnaire
 #### Personal Space
 ##### My partner respects my need for personal space.
 - Strongly Disagree
